@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TourGuide</string>
+    <string name="museum_frag">Motor Museum</string>
+    <string name="cathederal_frag">Catherderal Ruins</string>
+    <string name="art_gall_frag">Art gallery</string>
+    <string name="war_park_frag">War memorial park</string>
 </resources>
